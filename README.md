@@ -38,7 +38,3 @@ Alternatively you can use the [Spring Boot Maven plugin](https://docs.spring.io/
 mvn spring-boot:run
 ```
 
-## Credits
-
-	Thanks to Raghul Thangavel.His Car Parking Project Helped Me to Convert Into this One. 
-
